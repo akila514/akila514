@@ -4,6 +4,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Thank+you+for+visiting!;Feel+free+to+explore+my+projects+%F0%9F%98%8A" alt="Typing SVG" /></a>
 
+![Animated GIF](https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-34-881_512.gif)
+
 <img style="border-radius: 10px;" src="https://img.freepik.com/free-vector/gradient-devops-illustration_23-2149379660.jpg?w=740&t=st=1697339448~exp=1697340048~hmac=c361479a082113dc0312b4757e7e229b257bd60859f5ad8f04a6c60812ce1149"></img>
 
 # 🌐 Socials:
