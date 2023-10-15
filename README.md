@@ -1,5 +1,5 @@
-# 🧑‍💻 About Me:
-I'm a Software Engineering undergraduate.<br><br>
+<h3 style="text-align: center; color: #ecf0f1;"># 🧑‍💻 Hello I'm Akila Jayawardana</h3>
+<p style="color: #bdc3c7;">I'm a Software Engineering undergraduate.</p><br><br>
 <img src="https://img.freepik.com/free-vector/gradient-devops-illustration_23-2149379660.jpg?w=740&t=st=1697339448~exp=1697340048~hmac=c361479a082113dc0312b4757e7e229b257bd60859f5ad8f04a6c60812ce1149"></img>
 
 
