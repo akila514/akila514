@@ -1,6 +1,6 @@
 # 🧑‍💻 About Me:
 I'm a Software Engineering undergraduate.<br><br>
-<img src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=740&t=st=1697339126~exp=1697339726~hmac=121efec4cdcb198fc87325e34b1d62dcbf22d06a90f2fb2ae5bd4fccbdef2964"></img>
+<img src="[https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=740&t=st=1697339126~exp=1697339726~hmac=121efec4cdcb198fc87325e34b1d62dcbf22d06a90f2fb2ae5bd4fccbdef2964](https://img.freepik.com/free-vector/gradient-devops-illustration_23-2149379660.jpg?w=740&t=st=1697339448~exp=1697340048~hmac=c361479a082113dc0312b4757e7e229b257bd60859f5ad8f04a6c60812ce1149)"></img>
 
 
 # 🌐 Socials:
