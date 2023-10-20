@@ -3,11 +3,6 @@
 
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Thank+you+for+visiting!;Feel+free+to+explore+my+projects+%F0%9F%98%8A"></a>
 
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akila514" alt="akila514" /></a> </p>
-
 - 📫 How to reach me **akilajay514@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
