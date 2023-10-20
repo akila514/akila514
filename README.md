@@ -1,6 +1,4 @@
-![My Banner](https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif)
-
-<h1>Hi 👋, I'm Akila Jayawardana</h1>
+<h2>Hi 👋, I'm Akila Jayawardana</h2>
 <h3>I'm a Software Engineering undergraduate.</h3>
 
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Thank+you+for+visiting!;Feel+free+to+explore+my+projects+%F0%9F%98%8A"></a>
