@@ -1,3 +1,5 @@
+![Your Banner](https://wallpaperaccess.com/full/306406.jpg))
+
 <h2>Hi 👋, I'm Akila Jayawardana</h2>
 <h3>I'm a Software Engineering undergraduate.</h3>
 
